@@ -4,7 +4,7 @@
 	<title>page html</title>
 	</head>
 	<body style=background-color:#1abc9c>
-		<h1>Test de page html pour git</h1>
+		<h1 style="color:#FFFFFF">Test de page html pour git</h1>
 	</body>
 </html>
 
